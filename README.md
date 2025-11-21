@@ -4,7 +4,7 @@
 ## About Me
 
 - Yashas J  |  Software Test Engineer  |  2.5+ years EXP.  |  Dbiz.ai |  India |
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square&logo=adobe-acrobat-reader)]([https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing](https://drive.google.com/file/d/1o1ct7Sa_YZ_stYDpCeAzCyahnW5dbDhm/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square&logo=adobe-acrobat-reader([https://drive.google.com/drive/folders/10thl_mWevemQHabVzpY_a2ie1BG13rUk?usp=sharing](https://drive.google.com/file/d/1o1ct7Sa_YZ_stYDpCeAzCyahnW5dbDhm/view?usp=sharing))
 - I’m looking to collaborate on Test Automation Frameworks Development (Web, Mobile and API).
 
 ## 🔭  Projects - Test Automation Frameworks
