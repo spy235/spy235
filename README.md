@@ -42,7 +42,7 @@
 
 - [![Email](https://img.shields.io/badge/Email-rajatvermaa95%40gmail.com-green)](mailto:yashasyash1234@gmail.com)
 - [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/spy235)
-- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)]([https://spy235.github.io/](https://spy235.github.io/)
+- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://spy235.github.io/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yashas-j-07837a207)
   
 Feel free to reach out if you have any questions, or suggestions, or just want to chat!
