@@ -1,5 +1,5 @@
 # Welcome to Yashas's GitHub Profile!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spy235&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spy235&label=Profile%20views&color=0e75b6&style=flat" alt="spy235" /> </p>
 
 ## About Me
 
