@@ -36,7 +36,8 @@
 
 ## 📈 GitHub Stats
 
-![Yashas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=radical)
+![Yashas's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=spy235&show_icons=true&theme=radical
+))
 
 ## 📧 Let's Connect
 
