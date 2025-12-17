@@ -1,53 +1,130 @@
-# Welcome to Yashas's GitHub Profile!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spy235&label=Profile%20views&color=0e75b6&style=flat" alt="spy235" /> </p>
+# 🚀 Yashas J | SDET • QA Automation Engineer  
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer;SDET+%7C+Quality+Engineer;Framework+Architect+%7C+CI%2FCD+Driven;Selenium+%7C+Playwright+%7C+API+Automation" />
+</p>
 
-- **Yashas J** | Software Test Engineer | 2.5+ years EXP. | Dbiz.ai | India [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=flat-square&logo=adobe-acrobat-reader)](https://drive.google.com/file/d/1a3lz43JqUVNWcSc7RyI8Y1zjcdQf9mj3/view?usp=sharing)
-- I’m looking to collaborate on Test Automation Frameworks Development (Web, Mobile and API).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=spy235&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## 🔭  Projects - Test Automation Frameworks
+---
 
-- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]
--[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)]
-  <!-- [![Appium](https://img.shields.io/badge/Appium-40C4FF?style=for-the-badge&logo=appium&logoColor=white)](https://github.com/stars/rajatt95/lists/appium-automation-frameworks) -->
--[![Rest Assured](https://img.shields.io/badge/Rest%20Assured-5B47A5?style=for-the-badge&logo=rest-assured&logoColor=white)]
-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-- [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]
-- [![Playwright](https://img.shields.io/badge/Playwright-34495E?style=for-the-badge&logo=playwright&logoColor=white)]
-<!-- 
-- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/programming-language-python) -
-  [![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/stars/rajatt95/lists/requests-automation-framework) -->
+## 🧠 Who Am I?
 
-## 📝 I’m currently working at **DBiz.ai**
+```yaml
+Name: Yashas J
+Role: SDET / QA Automation Engineer
+Experience: 2.5+ Years
+Organization: DBiz.ai
+Specialization: Automation Framework Architecture
+Location: India
+```
 
-### **Quality Assurance Analyst — DBiz.ai, Kochi, Kerala**  
-**July 2023 – Nov 2025**
+✨ I engineer **quality at scale** by building **high‑performance automation frameworks**  
+✨ Strong believer in *“Automation is not scripting, it’s engineering”*  
+✨ Obsessed with **clean architecture, CI/CD & test analytics**
 
-- Performed comprehensive **manual and automated validation** for web and data-driven platforms, achieving a **98% pass rate** during regression cycles.  
-- Developed and optimized automation frameworks using **Selenium, Playwright, and Rest Assured**, reducing execution time by **65%**.  
-- Enhanced a **Hybrid BDD Framework** with **Page Object Model (POM)**, **TestNG**, and reusable utilities to improve maintainability and scalability.  
-- Automated **30+ REST API endpoints** integrated with **Jenkins pipelines**, cutting backend validation time by **70%**.  
-- Configured **CI/CD builds** with dynamic environment triggers and integrated **Allure** and **Extent Reports** for detailed test analytics.  
-- Detected and prevented **15+ production defects** through functional, exploratory, and **OWASP Top 10–based security testing**, improving release stability by **30%**.
+📄 **Resume:**  
+👉 [Download Resume](https://drive.google.com/file/d/1a3lz43JqUVNWcSc7RyI8Y1zjcdQf9mj3/view)
 
-### **Projects & Achievements**
-- **Unified Automation Framework**: Designed a reusable hybrid system (Selenium + Playwright + Rest Assured) to support UI, API, and data validations across multiple projects with reduced maintenance overhead.
+---
 
-## 📈 GitHub Stats
+## 🧪 Automation Arsenal  
 
-![Yashas's GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api?username=spy235&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=radical)
-))
+### 🧬 Language Usage (Auto‑Generated)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spy235&layout=donut&theme=radical" />
+</p>
 
-## 📧 Let's Connect
+| Language | Usage |
+|--------|-------|
+| ☕ Java | ██████████████░░ 60% |
+| 🟨 JavaScript | ███████░░░░░░░░ 25% |
+| 🐍 Python | ████░░░░░░░░░░░ 15% |
 
-- [![Email](https://img.shields.io/badge/Email-yashasyash1234@gmail.com-green)](mailto:yashasyash1234@gmail.com)
-- [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/spy235)
-- [![GitHub Page](https://img.shields.io/badge/GitHub-Page-lightgrey)](https://spy235.github.io/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yashas-j-07837a207)
-  
-Feel free to reach out if you have any questions, or suggestions, or just want to chat!
+---
 
-Thanks for visiting my GitHub profile! 😊
+### 🛠️ Tools & Technologies  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spy235&label=Profile%20views&color=0e75b6&style=flat" alt="spy235" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,selenium,playwright,cypress,jenkins,githubactions,docker,git,linux" />
+</p>
+
+---
+
+## 🏗️ Flagship Automation Framework  
+
+### 🔥 Unified Hybrid Automation Framework  
+**(UI + API + Data Validation)**  
+
+🧩 **Tech Stack:**  
+`Selenium • Playwright • Rest Assured • TestNG • BDD • Jenkins`
+
+✅ Reduced execution time by **65%**  
+✅ Automated **30+ APIs** (70% faster backend validation)  
+✅ Plug‑and‑play design across multiple projects  
+✅ Integrated **Allure + Extent Reports**  
+✅ Environment‑driven CI/CD pipelines  
+
+> *Designed to scale. Built to last.*
+
+---
+
+## 💼 Professional Experience  
+
+### 🏢 DBiz.ai — Quality Assurance Analyst  
+📍 Kochi, Kerala | 🗓 July 2023 – Nov 2025  
+
+- 🎯 Achieved **98% regression stability**
+- ⚡ Optimized automation runtime by **65%**
+- 🔁 Built CI‑driven API automation suites
+- 🔐 Executed **OWASP Top‑10 security testing**
+- 🚨 Prevented **15+ production defects**
+- 📈 Improved release confidence by **30%**
+
+---
+
+## 📊 GitHub Intelligence Dashboard  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=spy235&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spy235&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Because Why Not?)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+
+<p align="center">
+  <a href="mailto:yashasyash1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/yashas-j-07837a207"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/spy235"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://spy235.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge"/></a>
+</p>
+
+---
+
+### ⭐ Recruiter‑Friendly Summary
+✔ SDET mindset  
+✔ Framework architect  
+✔ CI/CD‑driven automation  
+✔ API + UI mastery  
+✔ Production‑grade quality engineering  
+
+> *I don’t just test software — I harden it.* 🔥
