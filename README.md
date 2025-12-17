@@ -1,4 +1,4 @@
-# 🚀 Yashas J | SDET • QA Automation Engineer  
+# Yashas J | SDET • QA Automation Engineer  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=QA+Automation+Engineer;SDET+%7C+Quality+Engineer;Framework+Architect+%7C+CI%2FCD+Driven;Selenium+%7C+Playwright+%7C+API+Automation" />
@@ -120,7 +120,7 @@ Location: India
 
 ---
 
-### ⭐ Recruiter‑Friendly Summary
+### ⭐ Summary
 ✔ SDET mindset  
 ✔ Framework architect  
 ✔ CI/CD‑driven automation  
