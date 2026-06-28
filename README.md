@@ -1,202 +1,63 @@
-# Yashas J | SDET • QA Automation Engineer • AI-Powered Quality Engineer
+# Yashas J
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=SDET+%7C+QA+Automation+Engineer;Quality+Engineer+%7C+Framework+Architect;Selenium+%7C+Playwright+%7C+API+Automation;Python+%7C+GenAI+%7C+AI+Agents+%7C+MCP;CI%2FCD+Driven+Automation+Engineer" />
+SDET • QA Automation Engineer • AI-Powered Quality Engineer
+
+I build reliable automation solutions that improve quality, speed, and confidence across releases. With **3+ years of experience** in both **manual and automation testing**, I focus on **UI, API, and CI/CD quality engineering** with a strong emphasis on maintainable frameworks and measurable impact.
+
+## About Me
+
+- **Quality-focused engineer** with **3+ years of experience** in **manual testing and automation testing**.
+- Skilled in **functional validation, regression testing, exploratory testing, and test automation**.
+- Passionate about combining **automation** with **AI-powered workflows** and modern engineering practices.
+- Strong believer in creating **scalable test systems** that reduce effort and increase confidence.
+
+## Core Skills
+
+- **Manual testing, regression testing, smoke testing, and exploratory testing**
+- **Selenium, Playwright, and Cypress**
+- **Java, Python, and TypeScript**
+- **API testing and automation**
+- **CI/CD integration** with Jenkins and GitHub workflows
+- **Test strategy, defect analysis, and BDD**
+- **Reporting and quality insights** with Allure and Extent
+
+## Key Contributions and Metrics
+
+- Built and improved automation frameworks that **reduced execution time by 65%**.
+- **Automated 30+ APIs** and improved **regression stability to 98%**.
+- Helped prevent **15+ production defects** and increased **release confidence by 30%**.
+- Combined **manual testing expertise** with automation to strengthen **end-to-end quality coverage**.
+- Contributed to **CI-driven test execution** and environment-based release pipelines.
+
+## Project Contributions
+
+- **XYZ**: Supported **manual, regression, smoke, and API testing** with clear test case design, execution, and bug verification, contributing to overall release quality.
+- **ABC**: Contributed to **Selenium-based framework development**, **regression automation**, and **CI/CD-backed execution** while also validating critical flows manually when needed.
+- **DEF**: Helped build **Cypress-based automation** for **API and end-to-end validation**, improving release coverage and supporting manual verification efforts.
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,selenium,playwright,cypress,postman,jenkins,git,github,docker" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spy235&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🧠 Who Am I?
-
-```yaml
-Name: Yashas J
-Role: SDET / QA Automation Engineer
-Experience: 3+ Years
-Specialization: Test Automation & Framework Engineering
-Location: India
-Learning:
-  - Generative AI
-  - LangChain
-  - AI Agents
-  - MCP (Model Context Protocol)
-  - Hugging Face Models
-```
-
-✨ I engineer quality at scale through automation, CI/CD, and intelligent testing solutions.
-
-✨ Passionate about combining Quality Engineering with AI-powered workflows.
-
-✨ Strong believer in:
-
-> "Automation is not scripting, it's engineering."
-
-📄 Resume:
-👉 [Download Resume](YOUR_RESUME_LINK)
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,selenium,jenkins,git,github,docker,linux" />
-</p>
-
-### 🧪 Testing & Automation
-
-* Selenium WebDriver
-* Playwright
-* Cypress
-* Rest Assured
-* Postman
-* TestNG
-* Cucumber (BDD)
-* API Automation
-* CI/CD Automation
-
-### 🤖 AI & Emerging Technologies
-
-* Generative AI
-* LangChain
-* Hugging Face
-* AI Agents
-* MCP (Model Context Protocol)
-* Prompt Engineering
-* Python for AI Automation
-
----
-
-## 🏗️ Flagship Automation Framework
-
-### 🔥 Unified Hybrid Automation Framework
-
-(UI + API + Data Validation)
-
-🧩 Tech Stack:
-`Selenium • Playwright • Rest Assured • TestNG • Jenkins • BDD`
-
-✅ Reduced execution time by 65%
-
-✅ Automated 30+ APIs
-
-✅ Environment-driven CI/CD pipelines
-
-✅ Integrated Allure & Extent Reports
-
-✅ Plug-and-play architecture across projects
-
----
-
-## 💼 Professional Experience
-
-### 🏢 DBiz.ai — Quality Assurance Analyst
-
-📍 Kochi, Kerala
-🗓 July 2023 – Present
-
-* 🎯 Achieved 98% regression stability
-* ⚡ Reduced automation execution time by 65%
-* 🔁 Built CI-driven API automation suites
-* 🔐 Performed OWASP Top-10 security testing
-* 🚨 Prevented 15+ production defects
-* 📈 Improved release confidence by 30%
-
----
-
-## 📂 Featured Projects
-
-### 🥔 Pringles
-
-* Manual Testing
-* Regression Testing
-* Smoke Testing
-* API Testing using Postman
-* Test Case Design & Execution
-* Bug Verification
-
-### 🌿 Cannatrek
-
-* Selenium Framework Development
-* Automation Testing
-* CI/CD Integration
-* Regression Automation
-* Test Case Design & Execution
-
-### ☁️ DataCloud (Factweavers)
-
-* Cypress Framework Development
-* API Testing using Cypress
-* Smoke & Sanity Testing
-* End-to-End Validation
-* CI/CD Integration
-* Detailed Functional Testing
-
----
-
-## 📜 Certifications
-
-🏆 Playwright Mastery: UI & API Automation
-
-🏆 Selenium WebDriver with Java
-
-🏆 API Testing with Rest Assured
-
-🏆 Introduction to Agent Skills (Anthropic)
-
-🏆 Introduction to MCP (Anthropic)
-
-🏆 Claude Code in Action (Anthropic)
-
-🏆 Claude with the Anthropic API (Anthropic)
-
-🏆 TryHackMe – Pre Security
-
-🏆 TryHackMe – Cyber Security 101
-
----
-
-## 📊 GitHub Intelligence Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=spy235&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spy235&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:yashasyash1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/yashas-j-07837a207"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/spy235"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://spy235.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge"/></a>
-</p>
-
----
-
-### ⭐ Summary
-
-✔ 3+ Years of QA Experience
-
-✔ Automation Framework Architect
-
-✔ API + UI Automation Expert
-
-✔ CI/CD-Driven Testing
-
-✔ Python & AI Enthusiast
-
-✔ Exploring GenAI, AI Agents & MCP
-
-> I don't just test software — I engineer quality and automate confidence. 🚀
+- Automation: Selenium, Playwright, Cypress
+- Languages: Java, Python, TypeScript
+- API: Postman, Rest Assured
+- Frameworks: TestNG, Cucumber
+- DevOps: Jenkins, Git, GitHub, Docker
+
+## Certifications
+
+- Playwright Mastery: UI & API Automation
+- Selenium WebDriver with Java
+- API Testing with Rest Assured
+- Introduction to Agent Skills (Anthropic)
+- Introduction to MCP (Anthropic)
+
+## Connect
+
+- Email: yashasyash1234@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yashas-j-07837a207
+- GitHub: https://github.com/spy235
+- Portfolio: https://spy235.github.io
