@@ -101,14 +101,6 @@ Location: India
 
 ---
 
-## 🐍 Contribution Snake (Because Why Not?)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Let’s Connect  
 
 <p align="center">
