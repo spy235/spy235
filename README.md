@@ -61,3 +61,4 @@ I build reliable automation solutions that improve quality, speed, and confidenc
 - LinkedIn: https://www.linkedin.com/in/yashas-j-07837a207
 - GitHub: https://github.com/spy235
 - Portfolio: https://spy235.github.io
+- YouTube: https://youtube.com/@yashasoffical
